@@ -90,8 +90,14 @@ Bir Pull Request açın
 📄 Lisans
 Bu proje MIT lisansı altında lisanslanmıştır.
 
-✉️ İletişim
-Yusuf Talha Saraç - @zafmgd - saractalhayusuf@gmail.com
-Lınkedln - www.linkedin.com/in/yusuf-talha-saraç-752445262
+## 📧 İletişim
 
-Proje Linki: https://github.com/zafmgd/to-do-list
+Proje hakkında sorularınız, geri bildirimleriniz veya işbirliği teklifleriniz için benimle iletişime geçebilirsiniz:
+
+-   **E-posta:** saractalhayusuf@gmail.com
+-   **LinkedIn:** www.linkedin.com/in/yusuf-talha-saraç-752445262
+
+
+<p align="center">
+  Made with ❤️ by <a href="https://github.com/zafmgd">Yusuf Talha Saraç</a>
+</p>
